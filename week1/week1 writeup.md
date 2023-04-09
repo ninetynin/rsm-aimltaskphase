@@ -16,4 +16,11 @@ linear regression -> is a supervised learning algorithm that is used to predict 
                     -> n is the number of training examples
                     -> x is the input vector
                     -> square is because we want to minimize the error
-<!-- todo! try a simple regression model based on a simple stock price for linear regression for one stock-->
+<!-- todo! try a simple regression model based on a simple stock price for linear regression for one stock --> 
+<!-- done-->
+
+feature vector -> A feature vector is an ordered list of numerical properties of observed phenomena like the good and bad features of a column of our dataset table maybe not sure once verify
+            -> its used in breast cancer identification using the equation f(x) = f(a) + f`(a)(x-a)/1! + f``(a)(x-a)^2/2!.... to identify the good features of the cancer cells and the bad features of the cancer cells since humans cant identify which are the best it kind of goes into deep learning catogery which i have to yet learn
+
+
+gradient descent : https://medium.com/swlh/basics-and-beyond-gradient-descent-87fa964c31dd
