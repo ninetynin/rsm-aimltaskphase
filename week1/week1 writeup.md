@@ -24,3 +24,6 @@ feature vector -> A feature vector is an ordered list of numerical properties of
 
 
 gradient descent : https://medium.com/swlh/basics-and-beyond-gradient-descent-87fa964c31dd
+
+
+polynomial regression is a linear regression model in which there can nth degree polynomial and instead of y = mx + c it can be y = axn + bx^(n-1) + cx^(n-2) + .... + z something like that and it can be logn or any other function afaik 

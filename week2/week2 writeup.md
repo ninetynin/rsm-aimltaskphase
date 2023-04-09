@@ -1,0 +1,1 @@
+cost function -> we square the distances between the predicted and actual values or we can do absolute value of the difference between the predicted and actual values because to cancel the negative distances and we send this trhough a gradient descent algo which predicts the values
