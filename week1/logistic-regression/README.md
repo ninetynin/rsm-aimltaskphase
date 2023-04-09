@@ -1,0 +1,1 @@
+logistic_regression to predict whether the price will go up or not instead of predicting the price
