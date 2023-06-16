@@ -1,0 +1,5 @@
+train_set_x_orig, train_set_y, test_set_x_orig, test_set_y, classes = load_dataset()
+
+here x is the input image and y is the output either 0 or 1 here
+
+and train is the training set and test is the test set

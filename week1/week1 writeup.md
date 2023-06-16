@@ -27,3 +27,6 @@ gradient descent : https://medium.com/swlh/basics-and-beyond-gradient-descent-87
 
 
 polynomial regression is a linear regression model in which there can nth degree polynomial and instead of y = mx + c it can be y = axn + bx^(n-1) + cx^(n-2) + .... + z something like that and it can be logn or any other function afaik 
+
+
+logistic regression is used to find the best possible thing to pick like x^2 or rootx or logx for multi var regression to fit the best possible way solution
