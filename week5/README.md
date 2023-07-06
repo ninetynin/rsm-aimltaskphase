@@ -1,1 +1,0 @@
-skipped to week5 to continue testing on nn but didnt work on previous weeks yet
